@@ -1,0 +1,18 @@
+.logo{
+    position: absolute;
+    left: 620px;
+    top: 80px;
+    z-index: 5;
+}
+.make{
+    position: absolute;
+    left: 1265px;
+    top: 10px; 
+    z-index: 5;
+}
+.back{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    z-index: 5;
+}
